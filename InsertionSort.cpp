@@ -18,4 +18,5 @@ int main(){
         arr[j+1]=current;
     }
     printarr(arr,n);
+
 }
